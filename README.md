@@ -12,6 +12,7 @@ Next up:
  - More linear modulation constellations
  - Decision feedback equalizer
  - Different Hamming rates
+ - Encryption
 
 Long-term goals:
  - OFDM
