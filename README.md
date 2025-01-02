@@ -19,3 +19,6 @@ Long-term goals:
  - MIMO
  - More interesting channels
  - Re-make with class structure for increased ease of use
+
+Even Longer-term goals:
+ - Verilog or C/C++ implementation of functions for real-life use
